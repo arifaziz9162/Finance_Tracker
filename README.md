@@ -20,7 +20,6 @@ It allows you to record income and expenses, view transactions within a date ran
 
 ## Project Structure 
 Finance_Tracker/
-│
 ├── logger_config.py       
 ├── main.py     
 ├── data_entry.py
