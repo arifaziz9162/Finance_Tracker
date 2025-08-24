@@ -1,20 +1,23 @@
 # Finance Tracker
 
-A simple command-line based finance tracker written in Python.  
-It allows you to record income and expenses, view transactions within a date range, and generate visualizations (scatter plot).
+A simple command-line based **Finance Tracker** written in Python.  
+It helps you record income and expenses, view transactions within a date range, and generate visualizations like histograms.
 
 ---
 
 ## Features
-- Add transactions with:
+
+- **Add Transactions**
   - Date (custom or today’s date)
   - Amount
   - Category (`I` = Income, `E` = Expense)
   - Description
-- View transactions in a specific date range
-- Get summary: Total Income, Total Expense, Net Savings
-- Visualize transactions with plots (histogram)
-
+- **View Transactions** within a specific date range
+- **Summary Report**  
+  - Total Income  
+  - Total Expense  
+  - Net Savings
+- **Visualizations**: Scatter plot 
 ---
 
 
