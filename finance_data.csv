@@ -1,0 +1,8 @@
+date,amount,category,description
+01-04-2025,20000.0,Income,salary
+01-04-2025,40.0,Expense,chips
+02-04-2025,4000.0,Expense,room rent
+02-04-2025,3000.0,Expense,grocery
+04-04-2025,3000.0,Income,freelance salary
+06-04-2025,32.0,Expense,milk
+10-04-2025,400.0,Expense,grocery
