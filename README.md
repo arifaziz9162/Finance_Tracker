@@ -1,4 +1,4 @@
-# Finance Tracker
+## Finance Tracker
 
 A simple command-line based **Finance Tracker** written in Python.  
 It helps you record income and expenses, view transactions within a date range, and generate visualizations like histograms.
