@@ -25,7 +25,7 @@ Finance_Tracker/
 ├── data_entry.py
 ├── finance_data.csv
 ├── README.md
-└── requirements.txt 
+├── requirements.txt 
 
 🧑‍💻 Author
 MD ARIF AZIZ
