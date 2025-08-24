@@ -20,12 +20,12 @@ It allows you to record income and expenses, view transactions within a date ran
 
 ## Project Structure 
 Finance_Tracker/
-├── logger_config.py       
-├── main.py     
+├── logger_config.py
+├── main.py
 ├── data_entry.py
-├── finance_data.csv    
-├── README.md    
-└── requirements.txt   
+├── finance_data.csv
+├── README.md
+└── requirements.txt 
 
 🧑‍💻 Author
 MD ARIF AZIZ
